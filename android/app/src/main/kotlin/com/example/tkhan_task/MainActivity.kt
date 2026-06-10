@@ -1,4 +1,4 @@
-package com.example.tkhan_task
+package com.example.task_app_riverpod
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -5,5 +5,5 @@ import 'src/app.dart';
 
 void main() {
   /// -- The [ProviderScope] widget is required to use Riverpod. It should wrap the entire application.
-  runApp(const ProviderScope(child: TKhanApp()));
+  runApp(const ProviderScope(child: App()));
 }
